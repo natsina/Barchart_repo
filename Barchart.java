@@ -1,4 +1,4 @@
-
+//This program program request the user for a file and then prints a bar-chart representing the number of occurences of each alphabet in that file.
 import java.util.Scanner; //imports the Scanner class
 import java.io.File;//imports the file class
 import java.io.FileNotFoundException;// This class throws an error if a file is not found
